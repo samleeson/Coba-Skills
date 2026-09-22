@@ -1,4 +1,4 @@
-# dr-eggbot-skills
+# Coba Skills
 
 User-created Grok Bot skills for dr eggbot (and the shared fleet).
 
