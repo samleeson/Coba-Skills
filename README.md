@@ -11,6 +11,7 @@ Live copies live at `/home/box/agent-data/workflows/<slug>/SKILL.md` and should 
 | Slug | Name |
 |------|------|
 | `citation-bar-before-delivery` | Citation Bar Before Delivery |
+| `coba-capdev-pipeline` | COBA CapDev pipeline |
 | `coba-card-pipeline-defaults` | COBA Card Pipeline Defaults |
 | `cross-ed-novelty-dedupe-gate` | Cross-ED Novelty Dedupe Gate |
 | `deep-verify-ed-swarm` | Deep Verify ED Swarm |
