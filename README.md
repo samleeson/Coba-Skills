@@ -17,6 +17,7 @@ Live copies live at `/home/box/agent-data/workflows/<slug>/SKILL.md` and should 
 | `deep-verify-ed-swarm` | Deep Verify ED Swarm |
 | `design-a-grok-bot` | Design a Grok Bot |
 | `editor-champion-facing-preflight` | Editor Champion-Facing Preflight |
+| `find-person-contact-info` | Find Person Contact Info |
 | `make-bot-ui` | Make Bot UI |
 | `merge-expand-in-place` | Merge Expand-In-Place |
 | `routine-healthcheck` | Routine Healthcheck |
